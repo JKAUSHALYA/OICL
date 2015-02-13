@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            name="Open Identity Configuration Language Editor"
+            extensions="oicl"
+            icon="icons/sample.gif"
+            contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
+            class="com.oicl.editor.OICLEditor"
+            id="com.oicl.editor.OICLEditor">
+      </editor>
+   </extension>
+
+</plugin>
