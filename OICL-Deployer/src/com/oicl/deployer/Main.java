@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.oicl.deployer.main;
+package com.oicl.deployer;
 
 /**
  * @author JAYANGA KAUSHALYA
